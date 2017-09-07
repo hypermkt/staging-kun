@@ -1,5 +1,7 @@
 ### https://raw.github.com/github/gitignore/c751b70cc6ec57de20f918dbf05448333ffa2191/Node.gitignore
 
+.env
+
 # Logs
 logs
 *.log
