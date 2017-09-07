@@ -11,5 +11,8 @@
     "url": "ssh://git@github.com:hypermkt/staging-kun.git"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.5.8"
+  }
 }
