@@ -14,7 +14,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "botkit": "^0.5.8"
+    "botkit": "^0.5.8",
+    "dotenv": "^4.0.0",
+    "redis": "^2.8.0",
+    "slack": "^8.3.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
