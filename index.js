@@ -6,8 +6,7 @@ import dotenv from 'dotenv'
 dotenv.config()
 
 let redisClient = redis.createClient()
-
-var bot = Botkit.slackbot({
+let bot = Botkit.slackbot({
   debug: false
 });
 bot.spawn({
